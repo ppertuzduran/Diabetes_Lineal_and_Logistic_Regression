@@ -1,2 +1,2 @@
-# Diabetes_Lineal_and_Logistic_Regression
-Prediction of Susceptibility to Suffer Diabetes using Lineal and Logistic Regression, evaluating with CrossValidation
+# Diabetes_Lineal_Logistic_and_RandomForest_Regression
+Prediction of Susceptibility to Suffer Diabetes using Lineal and Logistic Regression, and RandomForest evaluating with CrossValidation
